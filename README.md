@@ -17,7 +17,11 @@
   </a>
 </div>
 
-[![@kochie's Holopin board](https://holopin.me/kochie)](https://holopin.io/@kochie)
+<!--<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRweGZmNThreTNubjEydm4zeWVoM3A1aWpwNWloenpkc24ycnFhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="400"/>
+</div>-->
+
+[![@toindranildutta's Holopin board](https://holopin.me/toindranildutta)](https://holopin.io/@toindranildutta)
 
 <!--<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRweGZmNThreTNubjEydm4zeWVoM3A1aWpwNWloenpkc24ycnFhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="400"/>
