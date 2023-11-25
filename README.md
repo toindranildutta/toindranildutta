@@ -18,8 +18,6 @@
 </div>
 
 <br>
-<br>
-
 
 [![@toindranildutta's Holopin board](https://holopin.me/toindranildutta)](https://holopin.io/@toindranildutta)
 
