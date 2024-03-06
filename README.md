@@ -28,10 +28,10 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am an aspiring Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m learning and practicing everyday to become a Software Engineer and contributing to some projects.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical blogs.
 
 - :zap: In my free time, I solve problems on Leetcode, GeeksforGeeks and read tech articles.
 
