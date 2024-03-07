@@ -20,6 +20,7 @@
 <br>
 
 [![@toindranildutta's Holopin board](https://holopin.me/toindranildutta)](https://holopin.io/@toindranildutta)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="49fb2c7b-e4c2-4e99-bd1f-9b37084c5b78" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <!--<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRweGZmNThreTNubjEydm4zeWVoM3A1aWpwNWloenpkc24ycnFhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="400"/>
