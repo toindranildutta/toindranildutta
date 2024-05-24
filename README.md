@@ -1,27 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHV2dWp0ZHN6OTR5cmZyMjJ2Mnhzb3RhbHBvNWg4cGlvbDh6MGtzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zWrrk0oYjwkHDIq8T5/giphy.gif" width="150"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="www.linkedin.com/in/toindranildutta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UClfnfEBCxp5wKfN6aF-fKUg">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://leetcode.com/toindranildutta/">
-    <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
-  </a>
-  <a href="mailto:toindranildutta@gmail.com/">
-    <img src="https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Leetcode Badge"/>
-  </a>
-</div>
-
-<br>
-
-[![@toindranildutta's Holopin board](https://holopin.me/toindranildutta)](https://holopin.io/@toindranildutta)
-
-
 # 💫 About Me:
 👋 Hi, I'm Indranil Dutta, a passionate software developer and recent Computer Science graduate from Maulana Abul Kalam Azad University of Technology, West Bengal.<br>💻 Skilled in Java, Python, JavaScript, Spring Boot, ReactJS, Django, MySQL, and MongoDB.<br>🚀 Developed a Student Management System with REST API and a chat client, and enhanced a Healthcare Management System's frontend and backend.<br>🏠 Led a team to create Roommates, a room-finding website with ReactJS and Appwrite, hosted on Vercel.<br>🌐 Transitioned from Building Construction to tech during COVID-19, committed to continuous learning.<br>🤝 Open to collaboration on exciting projects and open-source contributions.
 
