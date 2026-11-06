@@ -11,7 +11,6 @@ I build LLM-powered applications, retrieval pipelines and AI agents with **Pytho
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-toindranildutta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toindranildutta)
 
-
 ---
 
 ## 🛠️ Tech Stack
@@ -65,8 +64,7 @@ I build LLM-powered applications, retrieval pipelines and AI agents with **Pytho
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toindranildutta&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toindranildutta&theme=blue-green&hide_border=false&layout=compact)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=toindranildutta&rank_icon=percentile&custom_title=Indranil%27s%20Github%20Stats&include_all_commits=true&theme=aura_dark)
 
 ---
 
