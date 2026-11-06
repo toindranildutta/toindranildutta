@@ -1,31 +1,84 @@
-# 💫 About Me:
-👋 Hi, I'm Indranil Dutta, a passionate software developer and recent Computer Science graduate from Maulana Abul Kalam Azad University of Technology, West Bengal.<br>💻 Skilled in Java, Python, JavaScript, Spring Boot, ReactJS, Django, MySQL, and MongoDB.<br>🚀 Developed a Student Management System with REST API and a chat client, and enhanced a Healthcare Management System's frontend and backend.<br>🏠 Led a team to create Roommates, a room-finding website with ReactJS and Appwrite, hosted on Vercel.<br>🌐 Transitioned from Building Construction to tech during COVID-19, committed to continuous learning.<br>🤝 Open to collaboration on exciting projects and open-source contributions.
+# Hi, I'm Indranil Dutta 👋
 
+### AI Engineer | LLM Applications · RAG · Agentic AI
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/indranil2412) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/toindranildutta) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/toindranildutta) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22238224) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_indranil_dutta) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UClfnfEBCxp5wKfN6aF-fKUg) 
+I build LLM-powered applications, retrieval pipelines and AI agents with **Python, FastAPI and Semantic Kernel**, and I bring production habits from **2+ years of enterprise development on .NET and Azure at Accenture**.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=toindranildutta&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=toindranildutta&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=toindranildutta&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 💼 Accenture: AI-driven automation with **Semantic Kernel**, **Azure Functions**, **Cosmos DB**, **SQL Server** and **Blob Storage**
+- 🎓 Certified: **Microsoft Azure AI Engineer Associate (AI-102)** · **Google Cloud Professional Data Engineer** · Google Generative AI · Claude Practitioner
+- 🚧 Building right now: a RAG document assistant, a tool-calling AI agent, and a containerized AI API deployed on Azure
+- 📍 Bengaluru, India · **Open to AI Engineer / GenAI Engineer roles**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=toindranildutta&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=toindranildutta&limit=5&theme=radical&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-toindranildutta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toindranildutta)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22238224)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=toindranildutta&icon=5&color=2)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/indranil2412) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/indranil2412) 
+## 🛠️ Tech Stack
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**AI & LLMs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-444444?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-444444?style=for-the-badge)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-444444?style=for-the-badge)
+
+**Cloud, Data & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+**🌱 Actively learning and building with:** LangChain · LangGraph · vector databases (Azure AI Search, ChromaDB, FAISS) · RAG evaluation · agent tool-calling · Model Context Protocol (MCP) · Kubernetes
+
+---
+
+## 🚀 AI Projects
+
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| **RAG Document Assistant** | Answers questions over your PDFs with chunking, embeddings, retrieval and cited answers | Python, FastAPI, Azure OpenAI, vector store | 🚧 In progress |
+| **Agentic AI Assistant** | Multi-step agent that plans and calls tools (database, search, email) with guardrails | LangGraph / Semantic Kernel, SQL | 🚧 In progress |
+| **Containerized AI API** | Deploys the RAG service behind a FastAPI endpoint with CI/CD and monitoring | Docker, GitHub Actions, Azure Container Apps | 🚧 In progress |
+
+<!-- When a project is ready, change its row to link the repo, e.g.:
+| [**RAG Document Assistant**](https://github.com/toindranildutta/rag-document-assistant) | ... | ... | ✅ Live |
+-->
+
+---
+
+## 🧱 Earlier Projects (Java / Spring)
+
+- [**Bank-Management-System**](https://github.com/toindranildutta/Bank-Management-System): banking app with account creation, email alerts, debit/credit, account statements, secured with Spring Security
+- [**StudentManagementSystem**](https://github.com/toindranildutta/StudentManagementSystem): Student Management System built with Spring Boot and a REST API
+- [**Logistic-Management-System-Backend**](https://github.com/toindranildutta/Logistic-Management-System-Backend): Java backend for logistics management
+- [**Rooms-in-Bankura**](https://github.com/toindranildutta/Rooms-in-Bankura): room-finding website built with JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toindranildutta&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toindranildutta&theme=blue-green&hide_border=false&layout=compact)
+
+---
+
+### 🤝 Let's connect
+
+I'm open to **AI Engineer / GenAI Engineer** opportunities in Bengaluru. If you're working on LLM applications, RAG or agent systems, I'd like to hear about it. Reach me on [LinkedIn](https://www.linkedin.com/in/toindranildutta).
