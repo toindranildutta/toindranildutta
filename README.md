@@ -10,7 +10,7 @@ I build LLM-powered applications, retrieval pipelines and AI agents with **Pytho
 - 📍 Bengaluru, India · **Open to AI Engineer / GenAI Engineer roles**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-toindranildutta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toindranildutta)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22238224)
+
 
 ---
 
@@ -60,15 +60,6 @@ I build LLM-powered applications, retrieval pipelines and AI agents with **Pytho
 <!-- When a project is ready, change its row to link the repo, e.g.:
 | [**RAG Document Assistant**](https://github.com/toindranildutta/rag-document-assistant) | ... | ... | ✅ Live |
 -->
-
----
-
-## 🧱 Earlier Projects (Java / Spring)
-
-- [**Bank-Management-System**](https://github.com/toindranildutta/Bank-Management-System): banking app with account creation, email alerts, debit/credit, account statements, secured with Spring Security
-- [**StudentManagementSystem**](https://github.com/toindranildutta/StudentManagementSystem): Student Management System built with Spring Boot and a REST API
-- [**Logistic-Management-System-Backend**](https://github.com/toindranildutta/Logistic-Management-System-Backend): Java backend for logistics management
-- [**Rooms-in-Bankura**](https://github.com/toindranildutta/Rooms-in-Bankura): room-finding website built with JavaScript
 
 ---
 
